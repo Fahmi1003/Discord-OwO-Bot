@@ -11,7 +11,7 @@
     "bufferutil": "^4.0.1",
     "canvas": "^2.6.1",
     "dblapi.js": "^2.4.0",
-    "dd-trace": "^0.31.4",
+    "dd-trace": "^0.32.2",
     "dotenv": "^10.0.0",
     "eris-sharder": "github:ChristopherBThai/eris-sharder#ecbb4ecda3134083748ea217bb49020a85a5e4cf",
     "erlpack": "github:abalabahaha/erlpack",
